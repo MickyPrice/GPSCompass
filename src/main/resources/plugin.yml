@@ -1,0 +1,7 @@
+name: GPSCompass
+version: ${project.version}
+main: me.mickydoesmc.gpscompass.gpscompass.GPSCompass
+api-version: 1.13
+authors: [Mickydoesmc]
+description: A plugin that lets you create a compass that shows you the direction to get to coords. Made during the 2020 Covid-19 Lockdown
+website: https://michaelprice.co.nz
